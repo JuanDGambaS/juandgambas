@@ -2,7 +2,7 @@
 
 ### Tecnólogo en Análisis y Desarrollo de Sistemas de Información
 
-<div style="width: 33.33%; margin: 0 auto;">
+<div style="width: 16.67%; margin: 0 auto;">
 <picture>
 <a href="https://github.com/JuanDGambaS" title="Juan David Gamba. Desarrollador web.">
 <img src="./FotoTipoDocFB.jpg" style="max-width: 100%; height: auto;"/>
@@ -32,10 +32,10 @@ Actualmente estoy trabajando en un sitio web de noticias locales para Bogotá, c
 
 ## Proyectos de Desarrollo
 
-<div style="width: 20%; margin: 0 auto;">
+<div style="width: 14.29%; margin: 0 auto;">
 <picture>
 <a href="#" title="Proyecto InfoSoc. Proyecto grado de la UNAD." style="pointer-events: none;" aria-disabled="true">
-<img src="./logo3.png" style="max-width: 100%; height: auto;" alt="Proyecto InfoSoc. Proyecto grado de la UNAD."/>
+<img src="./logo3_infosoc.png" style="max-width: 100%; height: auto;" alt="Proyecto InfoSoc. Proyecto grado de la UNAD."/>
 </a>
 </picture>
 </div>
