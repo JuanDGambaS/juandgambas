@@ -2,11 +2,7 @@
 
 ### Tecnólogo en Análisis y Desarrollo de Sistemas de Información
 
-<picture>
-<a href="https://github.com/JuanDGambaS" title="Juan David Gamba. Desarrollador web." style="display: block; width: 33.33%; margin: 0 auto;">
-<img src="./FotoTipoDocFB.jpg" style="max-width: 100%; height: auto;"/>
-</a>
-</picture>
+[![Juan David Gamba. Desarrollador web.](./FotoTipoDocFB.jpg)](# "Juan David Gamba. Desarrollador web.")
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCWiSiJuVZUHw9ieayPHm9fA?style=social)](https://youtube.com/JuanDGambaSDesarrollador?sub_confirmation=1)
 ![GitHub Followers](https://img.shields.io/github/followers/JuanDGambaS?style=social)
@@ -30,11 +26,7 @@ Actualmente estoy trabajando en un sitio web de noticias locales para Bogotá, c
 
 ## Proyectos de Desarrollo
 
-<picture>
-<a href="#" title="Proyecto InfoSoc. Proyecto grado de la UNAD." style="display: block; width: 20%; margin: 0 auto; pointer-events: none;" aria-disabled="true">
-<img src="./logo3_infosoc.png" style="max-width: 100%; height: auto;" alt="Proyecto InfoSoc. Proyecto grado de la UNAD."/>
-</a>
-</picture>
+[![Proyecto InfoSoc. Proyecto grado de la UNAD.](./logo3-infosoc.png)](# "Proyecto InfoSoc. Proyecto grado de la UNAD.")
 
 [![Proyecto InfoSoc. Proyecto de grado de la UNAD.](https://img.shields.io/github/stars/JuanDGambaS/juandgambas?label=Proyecto%20InfoSoc&style=social)](#)
 
